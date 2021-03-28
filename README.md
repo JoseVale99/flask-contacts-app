@@ -13,17 +13,11 @@ Aplicación con Flask y MySQL para agregar, actualizar y eliminar contactos
 - pip install flask
 - pip install flask-mysqldb
 ```
-## Documentación 📖
+## documentation 📖
 
 > Puedes encontrar mucho más información en [Flask.](https://flask.palletsprojects.com/)
 
 
-
-## Expresiones de Gratitud  🎁
-
-* Contribuye con este proyecto 📢
-
-
 ---
-⌨️ con ❤️ por [JoseVale99](https://gist.github.com/JoseVale99) 😊
+⌨️ [JoseVale99](https://gist.github.com/JoseVale99) 😊
 
